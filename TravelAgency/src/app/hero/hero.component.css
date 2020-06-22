@@ -1,0 +1,8 @@
+.jumbotron{
+    background-image: url("https://cdn.pixabay.com/photo/2020/06/17/19/20/gorge-5310788_960_720.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 50vh;
+    color: white;
+}
